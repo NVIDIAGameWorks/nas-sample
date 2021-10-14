@@ -1,0 +1,6 @@
+build*/
+media*/
+media
+.vs
+nvapi/
+bin/

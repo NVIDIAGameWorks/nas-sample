@@ -1,0 +1,4 @@
+[submodule "donut_examples"]
+	path = donut_examples
+	url = https://github.com/NVIDIAGameWorks/donut_examples.git
+	branch = main
